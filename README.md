@@ -1,2 +1,2 @@
-# eit
-eit classroom
+# Educacion IT
+Educacion IT - Classroom
